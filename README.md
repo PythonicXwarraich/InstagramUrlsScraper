@@ -18,7 +18,7 @@ This Scrapy project extracts Instagram URLs related to cafes, restaurants, and b
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/InstagramScraper.git
+    git clone https://github.com/PythonicXwarraich/InstagramUrlsScraper.git
     cd InstagramScraper
     ```
 
@@ -65,7 +65,7 @@ Custom headers and cookies are set to mimic a legitimate browser and bypass pote
 
 ## File Structure
 ```
-InstagramScraper/
+instaUrls/
 ├── spiders/
 │   └── spider.py      # Main spider file
 ├── requirements.txt   # Dependencies
